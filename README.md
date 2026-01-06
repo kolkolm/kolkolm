@@ -10,4 +10,4 @@ Python | Django | PostgreSQL | Git
 - 🇺🇦 Ukrainian — Native  
 - en English — B1 
 ## Contact Me
-[LinkedIn](https://www.linkedin.com/in/mykola-miroshnichenko-47b3643a3/) | Email: kolicka67@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mykola-miroshnichenko) | Email: kolicka67@gmail.com
